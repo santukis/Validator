@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Validator</string>
+    <string name="name">Nombre</string>
+    <string name="last_name">Apellidos</string>
+    <string name="nif">Nif</string>
+    <string name="email">Email</string>
+    <string name="password">Contraseña</string>
+    <string name="repeated_password">Repetir Contraseña</string>
+    <string name="validate">Validate</string>
+</resources>
